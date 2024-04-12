@@ -40,5 +40,10 @@ function sussearch()
 }
 function downloadstuff()
 {
-	
+	    var downloadLink = document.createElement('a');
+    downloadLink.href = URL.createObjectURL(blob);
+    downloadLink.download = 'download.jpg'; // File name
+
+    // Trigger download
+    downloadLink.click();
 }
