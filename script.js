@@ -1,5 +1,6 @@
 function trigger()
 {
+	start();
 	while(true)
 	{
 		downoaldrick();
