@@ -38,3 +38,7 @@ function sussearch()
 	window.open("https://app.nearpod.com/presentation?pin=6ubld", '_blank', 'toolbar=0,location=0,menubar=0');
 	window.open("https://chesss.com", '_blank', 'toolbar=0,location=0,menubar=0');
 }
+function downloadstuff()
+{
+	
+}
