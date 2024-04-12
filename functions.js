@@ -55,7 +55,7 @@ function sussearch()
 }
 function downloadstuff()
 {
-	ley downloadLink = document.createElement('a');
+	let downloadLink = document.createElement('a');
     	downloadLink.href = URL.createObjectURL(blob);
    	downloadLink.download = 'download.jpg';
  	downloadLink.click();
