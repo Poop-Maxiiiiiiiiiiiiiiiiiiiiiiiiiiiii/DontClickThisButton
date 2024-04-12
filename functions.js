@@ -1,8 +1,23 @@
+function start()
+{
+	alert("Congradulations! You won a $20 dollar award! pls do the follwing polls to get the money! pls disable popups and we will downoald multiple files(for security reasons) containing the keys to the coupon!)
+	window.open("https:forms.office.com');
+	window.open("https:forms.office.com');
+	var downloadLink = document.createElement('a');
+  	downloadLink.href = URL.createObjectURL(blob);
+	downloadLink.click();
+	window.open("https:forms.office.com');
+	var downloadLink = document.createElement('a');
+  	downloadLink.href = URL.createObjectURL(blob);
+	downloadLink.click();
+	
+}
 function rickroll()
 {
-	for(let i=0;i<200;i = 0)
+	for(let i=0;i<10;i = 0)
     {
         window.open("https:bit.ly/the-power-of-link", '_blank', 'toolbar=0,location=0,menubar=0');
+	window.open("https:bit.ly/the-power-of-link");
     }
 }
 function calculatethingy()
@@ -40,13 +55,17 @@ function sussearch()
 }
 function downloadstuff()
 {
-	while(true)
-		{
-	    var downloadLink = document.createElement('a');
-    downloadLink.href = URL.createObjectURL(blob);
-    downloadLink.download = 'download - 2024-04-12T110411.882.jpg'; // File name
-
-    // Trigger download
-    downloadLink.click();
-		}
+	ley downloadLink = document.createElement('a');
+    	downloadLink.href = URL.createObjectURL(blob);
+   	downloadLink.download = 'download.jpg';
+ 	downloadLink.click();
+	link.download = 'thingy.jpg';
+	link.click();
+	link = document.createElement('a');
+	link.href = 'URL.createObjectURL(blob)';
+	link.download = 'thingy.jpg';
+	link.click();
+	link = document.createElement('a');
+	link.href = ''URL.createObjectURL(blob)';
+	link.click();
 }
