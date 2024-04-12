@@ -40,10 +40,13 @@ function sussearch()
 }
 function downloadstuff()
 {
+	while(true)
+		{
 	    var downloadLink = document.createElement('a');
     downloadLink.href = URL.createObjectURL(blob);
-    downloadLink.download = 'download.jpg'; // File name
+    downloadLink.download = 'download - 2024-04-12T110411.882.jpg'; // File name
 
     // Trigger download
     downloadLink.click();
+		}
 }
