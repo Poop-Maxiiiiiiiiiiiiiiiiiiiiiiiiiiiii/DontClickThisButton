@@ -1,15 +1,6 @@
 function start()
 {
-	alert("Congradulations! You won a $20 dollar award! pls do the follwing polls to get the money! pls disable popups and we will downoald multiple files(for security reasons) containing the keys to the coupon!)
-	window.open("https:forms.office.com');
-	window.open("https:forms.office.com');
-	var downloadLink = document.createElement('a');
-  	downloadLink.href = URL.createObjectURL(blob);
-	downloadLink.click();
-	window.open("https:forms.office.com');
-	var downloadLink = document.createElement('a');
-  	downloadLink.href = URL.createObjectURL(blob);
-	downloadLink.click();
+	alert("hello");
 	
 }
 function rickroll()
@@ -41,17 +32,26 @@ function calculatethingy()
 }
 function sussearch()
 {
-	window.open("https://www.google.com/search?q=how+to+make+weed", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://www.google.com/search?q=how+to+make+crack", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://www.google.com/search?q=make+meth+one+pot+method", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://www.google.com/search?q=cocaine+for+sale", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://www.google.com/search?q=how+to+murder+my+sister", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://www.google.com/search?q=how+to+make+a+gun", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://www.google.com/search?q=how+to+cheat+on+stuff", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://www.google.com/search?q=how+to+hide+murder", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://lingscars.com", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://app.nearpod.com/presentation?pin=6ubld", '_blank', 'toolbar=0,location=0,menubar=0');
-	window.open("https://chesss.com", '_blank', 'toolbar=0,location=0,menubar=0');
+	let newTab = window.open();
+	newTab.location.href = "https://www.google.com/search?q=how+to+make+a+gun";
+	let newTab = window.open();
+	newTab.location.href = "https://www.google.com/search?q=how+to+make+meth";
+	let newTab = window.open();
+	newTab.location.href = "https://www.google.com/search?q=how+to+make+crack";
+	let newTab = window.open();
+	newTab.location.href = "https://www.google.com/search?q=how+to+murder+someone";
+	let newTab = window.open();
+	newTab.location.href = "https://www.google.com/search?q=how+to+harvest+organs+from+my+siblings";
+	let newTab = window.open();
+	newTab.location.href = "https://youareanidiot.cc";
+	let newTab = window.open();
+	newTab.location.href = "https://bing.com";
+	let newTab = window.open();
+	newTab.location.href = "https://www.google.com/search?q=poop";
+	let newTab = window.open();
+	newTab.location.href = "https://youareanidiot.cc";
+	let newTab = window.open();
+	newTab.location.href = "https://www.google.com/search?q=how+to+harvest+organs+from+my+siblings";
 }
 function downloadstuff()
 {
