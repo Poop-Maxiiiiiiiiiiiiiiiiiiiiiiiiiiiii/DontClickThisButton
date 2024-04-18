@@ -45,7 +45,7 @@ function sussearch()
 	let newTab = window.open();
 	newTab.location.href = "https://youareanidiot.cc";
 	let newTab = window.open();
-	newTab.location.href = "https://bing.com";
+	newTab.location.href = "https://poop-maxiiiiiiiiiiiiiiiiiiiiiiiiiiiii.github.io/DontClickThisButton/";
 	let newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=poop";
 	let newTab = window.open();
