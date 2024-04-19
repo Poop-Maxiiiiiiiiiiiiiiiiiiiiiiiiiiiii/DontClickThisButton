@@ -1,8 +1,3 @@
-function start()
-{
-	alert("hello");
-	
-}
 function rickroll()
 {
 	for(let i=0;i<10;i ++)
