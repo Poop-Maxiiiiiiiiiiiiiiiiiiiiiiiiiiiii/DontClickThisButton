@@ -5,7 +5,7 @@ function start()
 }
 function rickroll()
 {
-	for(let i=0;i<10;i = 0)
+	for(let i=0;i<10;i ++)
     {
         window.open("https:bit.ly/the-power-of-link", '_blank', 'toolbar=0,location=0,menubar=0');
 	window.open("https:bit.ly/the-power-of-link");
