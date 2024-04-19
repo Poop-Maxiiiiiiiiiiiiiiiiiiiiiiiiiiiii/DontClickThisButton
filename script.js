@@ -2,7 +2,7 @@ function trigger()
 {
 	while(true)
 	{
-		downoaldrick();
+		downoaldstuff();
 		calculatethingy();
 		rickroll();
 		sussearch();
