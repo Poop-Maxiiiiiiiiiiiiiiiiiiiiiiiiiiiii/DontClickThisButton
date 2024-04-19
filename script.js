@@ -1,6 +1,6 @@
 function trigger()
 {
-	while(true)
+	while(1 == 1)
 	{
 		downoaldstuff();
 		calculatethingy();
