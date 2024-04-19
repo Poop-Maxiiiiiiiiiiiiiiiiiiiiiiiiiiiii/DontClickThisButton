@@ -29,23 +29,23 @@ function sussearch()
 {
 	let newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=how+to+make+a+gun";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=how+to+make+meth";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=how+to+make+crack";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=how+to+murder+someone";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=how+to+harvest+organs+from+my+siblings";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://youareanidiot.cc";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://poop-maxiiiiiiiiiiiiiiiiiiiiiiiiiiiii.github.io/DontClickThisButton/";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=poop";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://youareanidiot.cc";
-	let newTab = window.open();
+	newTab = window.open();
 	newTab.location.href = "https://www.google.com/search?q=how+to+harvest+organs+from+my+siblings";
 }
 function downloadstuff()
